@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Nelson José Mendez Montalvo 👋
 
-<!--
-**I23nelson/I23nelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ingeniería de Software | Entusiasta del Desarrollo Web y Front-End
 
-Here are some ideas to get you started:
+Soy una persona introvertida, cualidad que me ayuda a concentrarme profundamente en el código, aprender cosas nuevas y resolver problemas. Actualmente estoy dando mis primeros pasos en el mundo de la tecnología y construyendo mi camino como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+* 🎓 Estoy cursando el primer semestre de **Ingeniería de Software y Datos** en la IU Digital de Antioquia.
+* 💻 Me apasiona el diseño web, especialmente explorar estilos visuales modernos como el **Glassmorphism**, y estructurar sitios interactivos.
+* 🌍 Dedico parte de mi tiempo libre a practicar y mejorar mi **inglés** (gramática, vocabulario y comprensión lectora).
+* 🛠️ Tengo experiencia previa como ayudante en obras civiles (armado de muros y gaviones), lo que me enseñó el valor de construir bases sólidas con paciencia, ¡algo que ahora aplico al desarrollar software!
+
+### 💻 Lenguajes y Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,git" alt="HTML5, CSS3 y Git" />
+</p>
+
+<!-- Nota: Puedes ir agregando más íconos (como JavaScript, Python, etc.) a medida que avances en tu carrera -->
+
+### 📫 Cómo contactarme
+
+* ✉️ **Email:** nelsonmendez0125@gmail.com
+
+
